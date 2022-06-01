@@ -7,9 +7,10 @@ Research study that analyzes growth and patterns of CryptoPunk transactions over
 ## Research questions (or hypotheses)
 1. What are key factors that impact CryptoPunk's prices over the past several year?
 2. How are accessories associating with each NFT's sales?
-3. How does each NFT's transaction frequency relate to wallet addresses(both to and from)?
-4. What is the impact of different type on sales over time?
-5. How does the popularity of each Punk's traits relate to the sales?
+3. What is the impact of different type on sales over time?
+
+## Research Project
+[Link]('./project.ipynb')
 
 ## Resources:
 - Dateset Website: [Here](https://www.kaggle.com/datasets/tunguz/cryptopunks)

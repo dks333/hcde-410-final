@@ -18,9 +18,7 @@ Resources:
 ## Research questions (or hypotheses)
 1. What are key factors that impact CryptoPunk's prices over the past several year?
 2. How are accessories associating with each NFT's sales?
-3. How does each NFT's transaction frequency relate to wallet addresses(both to and from)?
-4. What is the impact of different type on sales over time?
-5. How does the popularity of each Punk's traits relate to the sales?
+3. What is the impact of different type on sales over time?
 
 ## Background and/or Related Work
 There are many analysis articles that discuss about why and how CryptoPunks become popular and expensive over the past several years. A lot of them provide explanations on the rise of CryptoPunks from a more social and economic perspective. Most of the study were performed by analyzing sale growth over a certian time period. They found out that CryptoPunks become a unique and social currency of NFT. In addition, they indicated that the valuation of Cryptopunks was also supported by its security. Because the value of a Punk depends on its type, number of attributes, combination of attributes and subjectivity (there are 5 Punk types (alien, zombie, ape, male, female), 87 different attributes and a maximum of 7 attributes per Punk), each NFT is secured.
