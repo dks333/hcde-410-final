@@ -9,8 +9,11 @@ Research study that analyzes growth and patterns of CryptoPunk transactions over
 2. How are accessories associating with each NFT's sales?
 3. What is the impact of different type on sales over time?
 
-## Research Project
-[Link]('./project.ipynb')
+## Research Result
+![type_counts]('./type_counts.png')
+![max_sold_price_per_type]('./max_sold_price_per_type.png')
+![mean_sales_per_type]('./mean_sales_per_type.png')
+![type_counts]('./mean_price_per_num_of_attributes.png')
 
 ## Resources:
 - Dateset Website: [Here](https://www.kaggle.com/datasets/tunguz/cryptopunks)
