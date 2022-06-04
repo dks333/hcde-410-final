@@ -10,6 +10,7 @@ Research study that analyzes growth and patterns of CryptoPunk transactions over
 3. What is the impact of different type on sales over time?
 
 ## Research Result
+**[Final Report](finalReport.md)**
 ![type_counts](type_counts.png)
 ![max_sold_price_per_type](max_sold_price_per_type.png)
 ![mean_sales_per_type](mean_sales_per_type.png)
